@@ -18,7 +18,7 @@
 
         }
 
-        public bool flaming;
+        private bool flaming;
 
         public bool Flaming
         {
@@ -31,7 +31,7 @@
 
         }
 
-        public bool magic;
+        private bool magic;
 
         public bool Magic
         {
